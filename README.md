@@ -24,6 +24,8 @@ This Unity application allows users to scan a QR code and view an augmented real
 
 ## QR Code
 Scan this QR code to view the AR model of the resume.
+<img width="700" alt="qr-code-1" src="https://github.com/user-attachments/assets/4e22b26b-f75f-4e36-8283-f30460e76d06">
+
 
 
 # Gameplay Video
