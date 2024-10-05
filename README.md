@@ -17,19 +17,15 @@ This Unity application allows users to scan a QR code and view an augmented real
 - **Platform**: Android/iOS
 
 ## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/AR-Resume-Viewer.git
-    ```
-2. Build and run the project in Unity with AR Foundation.
-3. Deploy to a compatible device (Android/iOS).
+1. Go to the [Releases](https://github.com/yourusername/AR-Resume-Viewer/releases) section of this repository.
+2. Download the latest version of the `.exe` file.
+3. Run the `.exe` file to launch the application on your Windows machine.
+4. Enjoy viewing the AR model of my resume!
 
 ## QR Code
-Scan the QR code provided with this app to view the AR model of the resume.
+Scan this QR code to view the AR model of the resume.
 
----
 
-Feel free to adjust it based on your project’s specific details!
 # Gameplay Video
 https://github.com/user-attachments/assets/d64b3d5a-0078-42d6-b15f-08583b7254ba
 
